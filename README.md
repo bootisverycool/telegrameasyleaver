@@ -5,4 +5,4 @@ A simple tool to leave Telegram groups, channels, and clear direct messages.
 Obtain API credentials from https://my.telegram.org/auth \
 Put the credentials into config.ini \
 Run `pip install -r requirements.txt` \
-Run the script \
+Run the script 
